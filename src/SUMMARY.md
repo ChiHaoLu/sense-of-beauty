@@ -1,5 +1,6 @@
 # Summary
 
+- [Color](./color.md)
 - [Software]()
     - [AI](./swe/ai.md)
     - [UI/UX](./swe/front-end.md)
@@ -12,8 +13,6 @@
 - [Photography](./photo/README.md)
     - [Street Cap](./photo/street.md)
     - [Person Cap](./photo/person.md)
-- [Interior Design]()
-    - [Studio](./interior/studio.md)
 - [Outfit](./outfit/README.md)
     - [Japan]()
         - [Tokyo](./outfit/japan/tokyo.md)

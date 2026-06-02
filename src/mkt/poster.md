@@ -2,8 +2,13 @@
 
 - [Archives Design](https://archives.design/): 各種海報
 
-## Aesthetics
+### Style
 
+- [1](https://www.instagram.com/reel/DW9wh9picoI/?igsh=MWNoZm52czg5cXI5Mw==)
+- [2](https://www.instagram.com/reel/DYA2dRxhDHZ/?igsh=OGxxdzk5d3RwYWJo)
+- [3](https://www.instagram.com/reel/DTOcULPje_j/?igsh=OWsya2FxaWg3dWJz)
+
+## Aesthetics
 
 - [Cari Institute](https://cari.institute/aesthetics): 美學分類
 
