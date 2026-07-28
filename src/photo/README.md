@@ -2,33 +2,6 @@
 - [Playlist](https://www.youtube.com/playlist?list=PLbn3OUDXBfE1pYDVROaDTnkVvdcGneqny)
 
 
-## 相機
-### 街拍機
-
-* Ricoh GR III HDF
-
-### 底片相機
-* minolta tc-1
-* PENTAX 17
-* Lomomatic 110 底片相機連閃光燈－Metal 版本
-
-### 主力機
-* Sony A6400
-
-### 鏡頭
-* Sony 18135
-* Sony 1655
-* Tamron 1770
-* Sigma 1850
-* Tamron 28-75 一代 (a036)
-
-### 購入
-* https://immian.com/sony-e-mount/
-* https://www.dcard.tw/f/photography/p/241074464?cid=135AD04A-4A00-4113-822F-F0789D62A1E9
-
-
----
-
 ## 攻略
 
 
@@ -67,11 +40,6 @@
 #### Params
 
 - [How to use FILM SIMULATIONS on the Ricoh GR III (Ricoh GR IIIx)](https://www.youtube.com/watch?v=Yd4OpoJ8_mc&ab_channel=LukeTaylor-Photography)
-
-
-### 手機拍照
-- https://www.youtube.com/watch?v=kZGL7xfOS34
-- [照抄就對了! 最好的iPhone相機設定](https://www.youtube.com/watch?v=izjdX9uKnfo)
 
 ---
 
@@ -117,10 +85,9 @@
 
 ### 修片
 
-- [Lightroom 調色教學！教你調出好看的人像照片 - 進階篇](https://www.youtube.com/watch?v=lFzEjOdW-1k)
 - [新手必看！3個簡單的「修圖技巧」// 週三攝影教室 ep26. (Photoshop, Lightroom, AI)](https://youtu.be/4Z2ydHpU_YE?si=75ilcJtOhvp22NAS)
 - [「调色日记」一个曲线搞定！万能日系街拍色调！保姆级Lr教程！（赠送调色素材）](https://youtu.be/u_MqTS0MFgY?si=Xd8AcXPJiVzZk3C5)
-- https://www.youtube.com/watch?v=6OLEOwE8mNI
+- [「调色日记」终于来了！街拍大师monaris仿色！全面分析！保姆级教学！（包含原图素材及预设）](https://www.youtube.com/watch?v=6OLEOwE8mNI)
 
 ### 記憶卡
 
@@ -130,4 +97,4 @@
 4. 請使用相機格式化你的記憶卡，不要用電腦或其他的裝置格式化記憶卡
 5. 將記憶卡拿到別的裝置用過再裝回相機，相機很有可能會顯示記憶卡錯誤，請使用相機格式化記憶卡
 
-https://www.youtube.com/watch?v=C0uQDyzRsuw
+> - [$3000拍一隻影片...你知道我一張卡多少錢嗎!?? 記憶卡科普 // 週三攝影教室 Ep.13](https://www.youtube.com/watch?v=C0uQDyzRsuw)
